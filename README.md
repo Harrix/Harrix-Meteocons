@@ -1,1 +1,1 @@
-# Harrix-Meteocons
+# Harrix-WeatherIcons
